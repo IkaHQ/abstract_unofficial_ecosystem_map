@@ -10,4 +10,5 @@ export enum Category {
   Social = 'Social',
   Wallet = 'Wallet',
   RWA = 'RWA',
+  SubCommunities = 'Sub-Communities',
 }
